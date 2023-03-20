@@ -7,3 +7,12 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.watermelon {
+    width: 320px;
+    height: 160px;
+    background-color: #fd6c64;
+    border: 20px solid #5af5b6;
+    border-top: none;
+    border-radius: 0 0 200px 200px;
+}
