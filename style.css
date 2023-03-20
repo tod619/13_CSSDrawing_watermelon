@@ -16,3 +16,20 @@ body {
     border-top: none;
     border-radius: 0 0 200px 200px;
 }
+
+span {
+    width: 10px;
+    height: 10px;
+    background-color: #262626;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 20px;
+}
+
+span:nth-child(7),
+span:nth-child(12),
+span:nth-child(13),
+span:nth-child(14) {
+    opacity: 0;
+
+}
